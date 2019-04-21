@@ -24,3 +24,7 @@ git branch <name>
 
 切换分支
 git checkout test
+
+
+合并分支
+git merge test
