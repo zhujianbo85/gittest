@@ -9,3 +9,5 @@ git add test.txt
 
 git status
 
+
+git commit -m '说明信息'
